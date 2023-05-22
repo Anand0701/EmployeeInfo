@@ -29,6 +29,9 @@ public class Info {
 		System.out.println("Enter Your City");
 		String city= s.next();
 		
+		System.out.println("Enter Your pincode");
+		String pincode= s.next();
+		
 		System.out.println("Enter Your Id " + empId);
 		System.out.println("Enter Your Name " + empName);
 		System.out.println("Enter Your emailId " + emailId);
@@ -36,7 +39,7 @@ public class Info {
 		System.out.println("Enter Your salary " + salary);
 		System.out.println("Enter Your Gender " + gen);
 		System.out.println("Enter Your City " + city);
+		System.out.println("Enter Your pincode " + pincode);
 		
-		
-	}
+			}
 }
